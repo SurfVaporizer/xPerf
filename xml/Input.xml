@@ -1,0 +1,58 @@
+<EntityList>
+	<DeviceList>
+		<Device>
+			<DeviceName>mcast.ionix.vt.ru</DeviceName>
+			<Instances>
+				<Instance>
+					<CreationClassName>Interface</CreationClassName>
+					<DisplayName>"IF-mcast.ionix.vt.ru/569 [ge-2/2/2] [linkagg->ae10: ul.spe2-ul.dsw2]"</DisplayName>
+					<Description>ge-2/2/2</Description>
+					<DeviceID>ge-2/2/2</DeviceID>
+					<Name>IF-mcast.ionix.vt.ru/569</Name>
+					<InterfaceAlias>Bla Alias</InterfaceAlias>
+					<CurrentUtilizatoin>10.5</CurrentUtilizatoin>
+					<HighThreshold>5</HighThreshold>
+					<Type>ETHERNETCSMACD</Type>
+				</Instance>
+				<Instance>
+					<CreationClassName>Interface</CreationClassName>
+					<DisplayName>"IF-mcast.ionix.vt.ru/568 [ge-2/2/1] [linkagg->ae11: ul.spe2-ul.dsw1]"</DisplayName>
+					<Description>ge-2/2/1</Description>
+					<DeviceID>ge-2/2/1</DeviceID>
+					<Name>IF-mcast.ionix.vt.ru/568</Name>
+					<InterfaceAlias>Bla Alias</InterfaceAlias>
+					<CurrentUtilizatoin>13.5</CurrentUtilizatoin>
+					<HighThreshold>40</HighThreshold>
+					<Type>ETHERNETCSMACD</Type>
+				</Instance>
+			</Instances>
+		</Device>
+		<Device>
+			<DeviceName>poller.ionix.vt.ru</DeviceName>
+			<Instances>
+				<Instance>
+					<CreationClassName>Interface</CreationClassName>
+					<DisplayName>"IF-poller.ionix.vt.ru/569 [ge-2/2/2] [linkagg->ae10: ul.spe2-ul.dsw2]"</DisplayName>
+					<Description>ge-2/2/2</Description>
+					<DeviceID>ge-2/2/2</DeviceID>
+					<Name>IF-poller.ionix.vt.ru/569</Name>
+					<InterfaceAlias>Bla Alias</InterfaceAlias>
+					<CurrentUtilizatoin>50.5</CurrentUtilizatoin>
+					<HighThreshold>40</HighThreshold>
+					<Type>ETHERNETCSMACD</Type>
+				</Instance>
+				<Instance>
+					<CreationClassName>Interface</CreationClassName>
+					<DisplayName>"IF-poller.ionix.vt.ru/568 [ge-2/2/1] [linkagg->ae11: ul.spe2-ul.dsw1]"</DisplayName>
+					<Description>ge-2/2/1</Description>
+					<DeviceID>ge-2/2/1</DeviceID>
+					<Name>IF-poller.ionix.vt.ru/568</Name>
+					<InterfaceAlias>Bla Alias</InterfaceAlias>
+					<CurrentUtilizatoin>12.5</CurrentUtilizatoin>
+					<HighThreshold>7</HighThreshold>
+					<Type>ETHERNETCSMACD</Type>
+				</Instance>
+			</Instances>
+		</Device>
+	</DeviceList>
+</EntityList>
